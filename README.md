@@ -1,2 +1,5 @@
 # test
-just test
+<?php
+echo "this is thursday";
+?>
+
